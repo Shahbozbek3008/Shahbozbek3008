@@ -83,10 +83,10 @@ Currently a Senior Frontend Engineer at the **Center for Digitalization of Agroi
 | :--- | :--- | :--- |
 | **[go-tour](https://github.com/Shahbozbek3008/go-tour)** | Travel and tour booking platform with multi-language catalog and booking flow | Next.js · TypeScript · next-intl · Tailwind |
 | **[fsd-architecture](https://github.com/Shahbozbek3008/fsd-architecture)** | Reusable React starter template built on Feature-Sliced Design | React · TypeScript · Vite · shadcn/ui |
-| **[inexlynk](https://github.com/Shahbozbek3008/inexlynk)** | Internationalized SSR web platform | Next.js · TypeScript · next-intl · Bun |
-| **[heritage](https://github.com/Shahbozbek3008/heritage)** | Content-driven web platform | Next.js · TypeScript · Tailwind |
-| **[kpi-agro.uz](https://github.com/Shahbozbek3008/kpi-agro.uz)** | KPI monitoring dashboard for agro-industry indicators | React · Vite |
-| **[scoring](https://github.com/Shahbozbek3008/scoring)** | Scoring and evaluation interface for an internal system | React · TypeScript · Vite · Docker |
+| **[inexlynk](https://github.com/Shahbozbek3008/inexlynk)** | Multi-language B2B marketplace and investment platform with company profiles and in-app chat | Next.js · TypeScript · TanStack Query · Bun |
+| **[heritage](https://github.com/Shahbozbek3008/heritage)** | Cultural heritage archive — people, places, stories and photos on a shared timeline | Next.js · TypeScript · Tailwind |
+| **[kpi-agro.uz](https://github.com/Shahbozbek3008/kpi-agro.uz)** | KPI management and monitoring dashboard for agro-industry organizations | React · Vite |
+| **[scoring](https://github.com/Shahbozbek3008/scoring)** | Agro credit scoring platform — loan applications, contracts, field mapping and NDVI satellite analysis | React · TypeScript · Vite · Docker |
 
 > Most of my day-to-day work lives in private and self-hosted GitLab repositories, so this profile shows only part of it.
 
