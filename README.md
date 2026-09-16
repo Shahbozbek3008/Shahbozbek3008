@@ -5,6 +5,12 @@
   Tashkent, Uzbekistan · Open to remote opportunities
 </p>
 
+<p align="center">
+  <a href="https://shakhbozbek-nomonjonov.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shahbozbek-no-monjonov-6b4056233">LinkedIn</a> ·
+  <a href="mailto:tuitstudent2000@gmail.com">Email</a>
+</p>
+
 ---
 
 ## About
@@ -67,5 +73,7 @@ Uzbek (native) · Russian · English
 
 ## Contact
 
+- Portfolio: https://shakhbozbek-nomonjonov.vercel.app
+- LinkedIn: https://www.linkedin.com/in/shahbozbek-no-monjonov-6b4056233
 - Email: tuitstudent2000@gmail.com
 - Location: Tashkent, Uzbekistan (UTC+5) — open to remote and hybrid roles
