@@ -1,79 +1,126 @@
-<h1 align="center">Shahbozbek Numonjonov</h1>
+<div align="center">
 
-<p align="center">
-  <b>Senior Frontend Engineer</b> · React · TypeScript · Next.js · Electron<br/>
-  Tashkent, Uzbekistan · Open to remote opportunities
-</p>
+# Shahbozbek Numonjonov
 
-<p align="center">
-  <a href="https://shakhbozbek-nomonjonov.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/shahbozbek-no-monjonov-6b4056233">LinkedIn</a> ·
-  <a href="mailto:tuitstudent2000@gmail.com">Email</a>
-</p>
+### Senior Frontend Engineer
+
+**React · TypeScript · Next.js · Electron**
+
+Building government and enterprise platforms in Tashkent, Uzbekistan — open to remote roles.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white)](https://shakhbozbek-nomonjonov.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahbozbek-no-monjonov-6b4056233)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuitstudent2000@gmail.com)
+
+</div>
 
 ---
 
 ## About
 
-Frontend engineer with 5+ years of experience building production web and desktop applications — from nationwide government platforms to e-commerce and booking systems.
+Frontend engineer with **5+ years** of experience shipping production web and desktop applications — from nationwide government platforms to e-commerce and booking systems.
 
 Currently a Senior Frontend Engineer at the **Center for Digitalization of Agroindustry** under the Ministry of Agriculture of Uzbekistan, where I build internal platforms used daily by government agencies, and part-time at **Unicon**.
 
-What I focus on:
+**What I work on**
 
 - Architecting large React/TypeScript codebases with Feature-Sliced Design
-- Cross-platform desktop applications with Electron, including ANPR/computer-vision integrations
-- SSR, i18n and SEO-driven work with Next.js
+- Cross-platform desktop applications with Electron, including ANPR / computer-vision integrations
+- Server-side rendering, internationalization and SEO with Next.js
 - Maintaining and incrementally modernizing Vue.js applications
 - Design systems, accessible UI and measurable frontend performance
 
+---
+
 ## Tech Stack
 
-**Core** — TypeScript · JavaScript (ES2023+) · React · Next.js · Vue.js · Electron
+**Languages & Frameworks**
 
-**State & Data** — TanStack Query · Redux Toolkit · Zustand · React Hook Form · Zod
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-**UI** — Tailwind CSS · shadcn/ui · Ant Design · MUI · SCSS
+**State & Data**
 
-**Tooling** — Vite · Bun · Webpack · ESLint · Prettier · Husky · Docker · Git / GitLab CI
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=flat-square&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-**Architecture** — Feature-Sliced Design · modular monorepos · component-driven development
+**UI & Styling**
 
-## Selected Work
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Tooling & Workflow**
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Architecture** — Feature-Sliced Design · component-driven development · modular monorepos
+
+---
+
+## Featured Projects
 
 | Project | What it is | Stack |
-| --- | --- | --- |
-| [heritage](https://github.com/Shahbozbek3008/heritage) | Cultural heritage web platform | Next.js, TypeScript, Tailwind CSS |
-| [go-tour](https://github.com/Shahbozbek3008/go-tour) | Travel and tour booking platform with multi-language support | Next.js, TypeScript, next-intl, Bun |
-| [inexlynk](https://github.com/Shahbozbek3008/inexlynk) | Corporate web platform with internationalized SSR pages | Next.js, TypeScript, Tailwind CSS |
-| [fsd-architecture](https://github.com/Shahbozbek3008/fsd-architecture) | Reusable React starter template built on Feature-Sliced Design | React, TypeScript, Vite, shadcn/ui |
-| [kpi-agro.uz](https://github.com/Shahbozbek3008/kpi-agro.uz) | KPI monitoring dashboard for agro-industry indicators | React, Vite |
-| [scoring](https://github.com/Shahbozbek3008/scoring) | Credit scoring interface for an internal evaluation system | React, TypeScript, Vite, Docker |
+| :--- | :--- | :--- |
+| **[go-tour](https://github.com/Shahbozbek3008/go-tour)** | Travel and tour booking platform with multi-language catalog and booking flow | Next.js · TypeScript · next-intl · Tailwind |
+| **[fsd-architecture](https://github.com/Shahbozbek3008/fsd-architecture)** | Reusable React starter template built on Feature-Sliced Design | React · TypeScript · Vite · shadcn/ui |
+| **[inexlynk](https://github.com/Shahbozbek3008/inexlynk)** | Internationalized SSR web platform | Next.js · TypeScript · next-intl · Bun |
+| **[heritage](https://github.com/Shahbozbek3008/heritage)** | Content-driven web platform | Next.js · TypeScript · Tailwind |
+| **[kpi-agro.uz](https://github.com/Shahbozbek3008/kpi-agro.uz)** | KPI monitoring dashboard for agro-industry indicators | React · Vite |
+| **[scoring](https://github.com/Shahbozbek3008/scoring)** | Scoring and evaluation interface for an internal system | React · TypeScript · Vite · Docker |
 
-> Most of my day-to-day work lives in private and self-hosted GitLab repositories, so this profile shows only a part of it.
+> Most of my day-to-day work lives in private and self-hosted GitLab repositories, so this profile shows only part of it.
+
+---
 
 ## Experience
 
-**Senior Frontend Engineer** — Center for Digitalization of Agroindustry, Ministry of Agriculture · Feb 2022 – Present
-Government digitalization platforms: land and grain management systems, Electron-based ANPR desktop applications, and internal dashboards.
+**Senior Frontend Engineer** · Center for Digitalization of Agroindustry, Ministry of Agriculture
+*Feb 2022 – Present · Tashkent*
+Government digitalization platforms: land and grain management systems, Electron-based ANPR desktop applications, and internal dashboards used by government agencies.
 
-**Frontend Engineer (Part-time)** — Unicon · Jun 2026 – Present
+**Frontend Engineer (Part-time)** · Unicon
+*Jun 2026 – Present*
 
-**Frontend Engineer** — Unical Solutions · May 2021 – Feb 2022
+**Frontend Engineer** · Unical Solutions
+*May 2021 – Feb 2022*
 
-**Mentor, Frontend** — Coding Academy · Feb 2021 – Apr 2021
+**Frontend Mentor** · Coding Academy
+*Feb 2021 – Apr 2021*
 
-## Education
+---
+
+## Education & Languages
 
 **Tashkent University of Information Technologies (TUIT)** — Software Engineering
 
-## Languages
-
 Uzbek (native) · Russian · English
 
-## Contact
+---
 
-- Portfolio: https://shakhbozbek-nomonjonov.vercel.app
-- LinkedIn: https://www.linkedin.com/in/shahbozbek-no-monjonov-6b4056233
-- Email: tuitstudent2000@gmail.com
-- Location: Tashkent, Uzbekistan (UTC+5) — open to remote and hybrid roles
+<div align="center">
+
+**Open to senior frontend roles — remote or hybrid.**
+
+[Portfolio](https://shakhbozbek-nomonjonov.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shahbozbek-no-monjonov-6b4056233) · [Email](mailto:tuitstudent2000@gmail.com)
+
+</div>
